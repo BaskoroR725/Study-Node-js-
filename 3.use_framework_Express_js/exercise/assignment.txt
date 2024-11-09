@@ -1,0 +1,3 @@
+1.install node, express
+2.make 2 html and its route
+3.make static to make public folder available to access css or js 
